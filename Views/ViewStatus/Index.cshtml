@@ -40,7 +40,7 @@
                         </a>
                     </li>
                     <li>
-                        <a asp-area="ViewStatus" asp-controller="ViewStatus" asp-action="Index">
+                        <a asp-area="PetSelection" asp-controller="PetSelection" asp-action="Index">
                             VIEW STATUS
                         </a>
                     </li>
@@ -98,8 +98,10 @@
                         <td>@pet.pet_adopting</td>
                         <td>@pet.pet_adoption</td>
                         <td>
-                            <button class="btn btn-danger" onclick="">Disable</button>
-                            <button class="btn btn-primary" onclick="">Update</button>
+                            <button class="btn-delete" onclick="">Disable</button>
+                            <a asp-area="UpdateSubmitPet" asp-controller="UpdateSubmitPet" asp-action="Index">
+                                <button class="btn-update" onclick="">Update</button>
+                            </a>
                         </td>
                     </tr>
                 }
@@ -111,7 +113,7 @@
 
     <div class="container justify-content-center">
     <div class="container-fluid">
-        <h2 class="h2header">Adopting Pet</h2>
+        <h2 class="h2header">Adopting Forms</h2>
         <table class="table table-bordered databasetable" style="width: 77rem;">
             <thead>
                 <tr>
@@ -137,8 +139,10 @@
                         <td>@pet.pet_adopting</td>
                         <td>@pet.pet_adoption</td>
                         <td>
-                            <button class="btn btn-danger" onclick="">Disable</button>
-                            <button class="btn btn-primary" onclick="">Update</button>
+                            <button class="btn-delete" onclick="">Disable</button>
+                            <a asp-area="UpdatePetAdoption" asp-controller="UpdatePetAdoption" asp-action="Index">
+                                <button class="btn-update" onclick="">Update</button>
+                            </a>
                         </td>
                     </tr>
                 }

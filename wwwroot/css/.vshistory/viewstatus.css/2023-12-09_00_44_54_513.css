@@ -1,0 +1,198 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url('../images/paw-background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-color: #58ABAE;
+}
+
+.navbg {
+    width: 100%;
+    height: 100px;
+    flex-shrink: 0;
+    background-color: #FAF4F0;
+}
+
+.navlogo {
+    width: 218px;
+    margin-right: 3rem;
+    margin-left: 1rem;
+}
+
+.navline {
+    width: 0px;
+    height: 56px;
+    flex-shrink: 0;
+}
+
+.navheader {
+    color: #038196;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 3rem;
+}
+
+.navtext {
+    float: right;
+}
+
+    .navtext li a {
+        text-decoration: none;
+        color: inherit;
+        color: #FE97A6;
+        text-align: center;
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: Poppins;
+        font-size: 1.5625rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-left: 5rem;
+    }
+
+        .navtext li a:hover {
+            color: #038196;
+        }
+
+.btn-logout {
+    border: 4px solid #FE97A6;
+    background-color: #FE97A6;
+    border-radius: 25px;
+    width: 170px;
+    height: 50px;
+    margin-left: 3rem;
+    margin-right: 2rem;
+}
+
+.btn-logout-text {
+    color: #FAF4F0;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    padding: 3px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.btn-logout:hover {
+    border: 4px solid #FE97A6;
+    background-color: #FAF4F0;
+    color: #FE97A6;
+}
+
+.btn-logout-text:hover {
+    color: #FE97A6;
+}
+
+.usercard {
+    width: 50.9375rem;
+    height: 10.5625rem;
+    flex-shrink: 0;
+    border-radius: 1.875rem;
+    background: #FFD6D4;
+    margin-top: 11.7rem;
+    margin-bottom:7rem;
+}
+
+.userimg {
+    width: 7rem;
+    height: 7rem;
+    flex-shrink: 0;
+    margin-top: 1.75rem;
+    margin-left: 2rem;
+}
+
+.username {
+    color: #032539;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: .5rem;
+}
+
+.useremail {
+    color: #032539;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.useraddress {
+    color: #032539;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.databasetable {
+    background-color: #FAF4F0;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+    color: #032539;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-weight: 400;
+    overflow: hidden;
+    margin-bottom: 5rem;
+}
+
+.h2header {
+    color: antiquewhite;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.btn-delete {
+    width: 100px;
+    height: 30px;
+    border-radius: 40px;
+    border: 1px #58ABAE solid;
+    background: #58ABAE;
+    color: #F4F4F0;
+}
+
+.btn-delete:hover {
+    border: 1px #58ABAE solid;
+    color: #F4F4F0;
+}
+
+.btn-update {
+    width: 100px;
+    height: 30px;
+    border-radius: 40px;
+    border: 1px #FE97A6 solid;
+    background: #FE97A6;
+}
+
+.btn-update:hover {
+    border: 1px #58ABAE solid;
+    color: #F4F4F0;
+}
