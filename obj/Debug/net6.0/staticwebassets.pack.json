@@ -635,7 +635,10 @@
       "PackagePath": "staticwebassets\\uploads\\20231208030358_CatTest.jpg"
     },
     {
+<<<<<<< HEAD
 >>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
+=======
+>>>>>>> d18db0744be4706640a3f58c109c560e6956996c
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PurrfectPair.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

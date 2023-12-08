@@ -102,9 +102,9 @@ body {
     color: #FE97A6;
 }
 
-.homebtn:hover, .submitadoptionbtn:hover, .viewstatusbtn:hover {
-    color: #038196;
-}
+    .homebtn:hover, .submitadoptionbtn:hover, .viewstatusbtn:hover, .petselectionbtn:hover {
+        color: #038196;
+    }
 
 .usercard {
     width: 50.9375rem;
