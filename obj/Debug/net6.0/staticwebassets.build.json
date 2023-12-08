@@ -1,6 +1,7 @@
 {
   "Version": 1,
-  "Hash": "qRRtbSG8Qm95BfWGAua5u+9C2/i3MtOHrJ8/y4tP9A8=",
+  "Hash": "V04dGTfR8G0IkFfalyfzU0aiMLGdcGo/ZXpK+lQmp5w=",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
   "Source": "PurrfectPair",
   "BasePath": "_content/PurrfectPair",
   "Mode": "Default",
@@ -10,27 +11,52 @@
     {
       "Name": "PurrfectPair\\wwwroot",
       "Source": "PurrfectPair",
+<<<<<<< HEAD
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PurrfectPair.styles.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PurrfectPair.styles.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "PurrfectPair.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PurrfectPair.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PurrfectPair.bundle.scp.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+=======
       "OriginalItemSpec": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PurrfectPair.styles.css"
     },
     {
@@ -38,16 +64,31 @@
       "SourceId": "PurrfectPair",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "PurrfectPair.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PurrfectPair.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\admin.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "OriginalItemSpec": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PurrfectPair.bundle.scp.css"
     },
     {
@@ -55,11 +96,17 @@
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/admin.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -68,15 +115,27 @@
       "OriginalItemSpec": "wwwroot\\css\\admin.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\cats.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\cats.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/cats.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -85,15 +144,27 @@
       "OriginalItemSpec": "wwwroot\\css\\cats.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\dogs.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\dogs.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/dogs.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -102,15 +173,27 @@
       "OriginalItemSpec": "wwwroot\\css\\dogs.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\home.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\home.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/home.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -119,15 +202,27 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\login.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\login.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -136,15 +231,27 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\petadoption.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\petadoption.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/petadoption.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -153,15 +260,27 @@
       "OriginalItemSpec": "wwwroot\\css\\petadoption.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\petselection.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\petselection.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/petselection.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -170,15 +289,27 @@
       "OriginalItemSpec": "wwwroot\\css\\petselection.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\signup.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\signup.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/signup.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -187,15 +318,27 @@
       "OriginalItemSpec": "wwwroot\\css\\signup.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\site.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\site.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -204,15 +347,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\submitpet.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\submitpet.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/submitpet.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -221,15 +376,27 @@
       "OriginalItemSpec": "wwwroot\\css\\submitpet.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\css\\viewstatus.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\css\\viewstatus.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "css/viewstatus.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -238,15 +405,27 @@
       "OriginalItemSpec": "wwwroot\\css\\viewstatus.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\favicon.ico",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\favicon.ico",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -255,15 +434,274 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\about-card-img.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/about-card-img.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about-card-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\about-section-img.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/about-section-img.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about-section-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\adoption-card-img.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/adoption-card-img.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adoption-card-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\faqs-card-img.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/faqs-card-img.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\faqs-card-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\login-dog.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/login-dog.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login-dog.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\logo-dark.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/logo-dark.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo-dark.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\logo-light.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/logo-light.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo-light.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\paw-background.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/paw-background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\paw-background.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\selection-cat.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/selection-cat.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\selection-cat.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\selection-dog.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/selection-dog.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\selection-dog.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\signup-cat.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/signup-cat.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\signup-cat.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\user-icon.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/user-icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\images\\welcome-banner-img.png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "images/welcome-banner-img.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\welcome-banner-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\js\\site.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\js\\site.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -272,15 +710,27 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -289,15 +739,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -306,15 +768,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -323,15 +797,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -340,15 +826,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -357,15 +855,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -374,15 +884,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -391,15 +913,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -408,15 +942,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -425,15 +971,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -442,15 +1000,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -459,15 +1029,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -476,15 +1058,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -493,15 +1087,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -510,15 +1116,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -527,15 +1145,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -544,15 +1174,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -561,15 +1203,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -578,15 +1232,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -595,15 +1261,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -612,15 +1290,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -629,15 +1319,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -646,15 +1348,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -663,15 +1377,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -680,15 +1406,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -697,15 +1435,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -714,15 +1464,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -731,15 +1493,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -748,15 +1522,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -765,15 +1551,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -782,15 +1580,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -799,15 +1609,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -816,15 +1638,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -833,15 +1667,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -850,15 +1696,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -867,15 +1725,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -884,15 +1754,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -901,15 +1783,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -918,15 +1812,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -935,15 +1841,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -952,15 +1870,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -969,15 +1899,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -986,15 +1928,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1003,15 +1957,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1020,15 +1986,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1037,15 +2015,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1054,15 +2044,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1071,15 +2073,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1088,15 +2102,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1105,15 +2131,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1122,15 +2160,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1139,15 +2189,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1156,15 +2218,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1173,15 +2247,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1190,15 +2276,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1207,15 +2305,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1224,15 +2334,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -1241,38 +2363,33 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\uploads\\20231208030358_CatTest.jpg",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\uploads\\20231208030358_CatTest.jpg",
       "SourceId": "PurrfectPair",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "BasePath": "_content/PurrfectPair",
       "RelativePath": "uploads/20231208030358_CatTest.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+<<<<<<< HEAD
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\20231208030358_CatTest.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\uploads\\20231208223327_Mobile Prog (3).png",
-      "SourceId": "PurrfectPair",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
-      "BasePath": "_content/PurrfectPair",
-      "RelativePath": "uploads/20231208223327_Mobile Prog (3).png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\20231208223327_Mobile Prog (3).png"
     }
   ]
 }

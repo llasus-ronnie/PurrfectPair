@@ -1,6 +1,22 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\PurrfectPair.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\PurrfectPair.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\PurrfectPair.csproj",
+        "projectName": "PurrfectPair",
+        "projectPath": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\PurrfectPair.csproj",
+        "packagesPath": "C:\\Users\\Cyra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cyra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
     "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\PurrfectPair.csproj": {}
   },
   "projects": {
@@ -15,6 +31,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\llasu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +91,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
         }
       }
     }

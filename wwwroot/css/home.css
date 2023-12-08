@@ -1,5 +1,5 @@
 ﻿body {
-    background-image: url('https://s3-alpha-sig.figma.com/img/4dbc/0e4f/b70dfa36a6908da5e0e993d046ad4ac3?Expires=1701043200&Signature=oAVN1Pf~eOCuzzKhY03JJRkRK~oK07dfQ3SM8ebejChQUuxqG9Mr4ir~dR8JiE8aX2ZnABZOis04YHYkV6DNJK866C3VUGCc82I381xA42BlyMWPI5wDtFmScp3Ctpz-euHOSVqOguHYqNN90lzKEyq4eUYZe5p8Iz7IVYStDvyhdiP-uru5csC1Td8LKzhydCz9kbKR5br8zH5cgEYKI2krx3j~R1VVw-KXzjNtOoxxfBdcGp8lBdc8xXzZtdZLPz-8YynsCG-j2tqatJYqNiDZbkJv97hA5QNIhNdmxsXP5pnlM1Al0VzUsFJg6SRKGB8sorRTpVSw98jAuB5Q~Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background-image: url('../images/paw-background.png');
     background-size: contain;
     background-repeat: repeat-y;
     background-position: right;
@@ -148,17 +148,16 @@
 
 .box-about {
     width: 425px;
-    height: 350px;
+    height: 300px;
     margin: 1rem;
     flex-shrink: 0;
     border-radius: 25px;
     background: #A5CBC6;
- 
 }
 
 .box-adoption {
     width: 425px;
-    height: 350px;
+    height: 300px;
     margin: 1rem;
     flex-shrink: 0;
     border-radius: 25px;
@@ -168,7 +167,7 @@
 
 .box-faqs {
     width: 425px;
-    height: 350px;
+    height: 300px;
     margin: 1rem;
     flex-shrink: 0;
     border-radius: 25px;
@@ -252,8 +251,9 @@
 .about-img img {
     position: absolute;
     left: -3%;
-    bottom: -7%;
-    width: 239px;
+    bottom: -10%;
+    height: 203px;
+    flex-shrink: 0;
 }
 
 .adoption-img {
@@ -265,7 +265,7 @@
 
 .adoption-img img {
     position: absolute;
-    left: -20%;
+    left: -23%;
     bottom: -5%;
     width: 285px;
     height: 257px;
@@ -291,11 +291,14 @@
     color: #032539;
     text-align: right;
     font-family: Poppins;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
-    float: right; 
-    margin-left: 9rem;
+    float: right;
+    margin-left: 5rem;
     margin-right: 1rem;
+    margin-top: 2rem;
+    font-style: normal;
+    line-height: normal;
 }
 
 .about-img {

@@ -16,7 +16,7 @@ html {
 
 body {
     margin-bottom: 60px;
-    background-image: url('https://s3-alpha-sig.figma.com/img/4dbc/0e4f/b70dfa36a6908da5e0e993d046ad4ac3?Expires=1701043200&Signature=oAVN1Pf~eOCuzzKhY03JJRkRK~oK07dfQ3SM8ebejChQUuxqG9Mr4ir~dR8JiE8aX2ZnABZOis04YHYkV6DNJK866C3VUGCc82I381xA42BlyMWPI5wDtFmScp3Ctpz-euHOSVqOguHYqNN90lzKEyq4eUYZe5p8Iz7IVYStDvyhdiP-uru5csC1Td8LKzhydCz9kbKR5br8zH5cgEYKI2krx3j~R1VVw-KXzjNtOoxxfBdcGp8lBdc8xXzZtdZLPz-8YynsCG-j2tqatJYqNiDZbkJv97hA5QNIhNdmxsXP5pnlM1Al0VzUsFJg6SRKGB8sorRTpVSw98jAuB5Q~Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background-image: url('../images/paw-background.png');
     background-size: cover;
     background-position: center;
     background-repeat: repeat-y;
@@ -54,68 +54,24 @@ body {
     margin-left:3rem;
 }
 
-.adoptionborder {
+.adoptionborder, .peopleborder, .petsborder, .analyticsborder {
     width: 15.875rem;
     height: 2.5rem;
     border-radius: 1.875rem;
     background: #FE97A6;
-    border:none;
+    border: none;
     margin-left: 2rem;
-}
-
-.adoptiontext {
+    margin-top: 1rem;
     color: #FAF4F0;
     font-family: Poppins;
     font-size: 1.5625rem;
     font-weight: 800;
 }
 
-.peopleborder {
-    width: 15.875rem;
-    height: 2.5rem;
-    border-radius: 1.875rem;
-    background: #FE97A6;
-    margin-left: 5rem;
-    border: none;
-}
-
-.peopletext {
-    color: #FAF4F0;
-    font-family: Poppins;
-    font-size: 1.5625rem;
-    font-weight: 800;
-}
-
-.petsborder {
-    width: 15.875rem;
-    height: 2.5rem;
-    border-radius: 1.875rem;
-    background: #FE97A6;
-    margin-left: 5rem;
-    border: none;
-}
-
-.petstext {
-    color: #FAF4F0;
-    font-family: Poppins;
-    font-size: 1.5625rem;
-    font-weight: 800;
-}
-
-.analyticsborder {
-    width: 15.875rem;
-    height: 2.5rem;
-    border-radius: 1.875rem;
-    background: #FE97A6;
-    margin-left: 5rem;
-    border: none;
-}
-
-.analyticstext {
-    color: #FAF4F0;
-    font-family: Poppins;
-    font-size: 1.5625rem;
-    font-weight: 800;
+.adoptionborder:hover, .peopleborder:hover, .petsborder:hover, .analyticsborder:hover {
+    border: 1px solid #038196;
+    color: #038196;
+    background: #FAF4F0;
 }
 
 .databasename {
@@ -123,18 +79,6 @@ body {
     font-family: Poppins;
     font-size: 3.125rem;
     font-weight: 800;
-}
-
-.searchbox {
-    width: 40rem;
-    height: 3.75rem;
-    border-radius: 1.875rem;
-    background: rgba(250, 244, 240, 0.90);
-    border: none;
-    color: #A5CBC6;
-    font-family: Poppins;
-    font-size: 1.5rem;
-    font-weight: 500;
 }
 
 .databasetable {
