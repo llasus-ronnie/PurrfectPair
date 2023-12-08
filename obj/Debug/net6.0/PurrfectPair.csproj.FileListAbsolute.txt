@@ -453,6 +453,7 @@ C:\Users\llasu\OneDrive\Desktop\PurrfectPair\PurrfectPair-domz\obj\Debug\net6.0\
 C:\Users\llasu\OneDrive\Desktop\PurrfectPair\PurrfectPair-domz\obj\Debug\net6.0\PurrfectPair.pdb
 C:\Users\llasu\OneDrive\Desktop\PurrfectPair\PurrfectPair-domz\obj\Debug\net6.0\PurrfectPair.genruntimeconfig.cache
 C:\Users\llasu\OneDrive\Desktop\PurrfectPair\PurrfectPair-domz\obj\Debug\net6.0\ref\PurrfectPair.dll
+<<<<<<< HEAD
 C:\Users\Cyra\Source\Repos\PurrfectPair\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Cyra\Source\Repos\PurrfectPair\bin\Debug\net6.0\appsettings.json
 C:\Users\Cyra\Source\Repos\PurrfectPair\bin\Debug\net6.0\PurrfectPair.staticwebassets.runtime.json
@@ -541,3 +542,5 @@ C:\Users\Cyra\Source\Repos\PurrfectPair\obj\Debug\net6.0\refint\PurrfectPair.dll
 C:\Users\Cyra\Source\Repos\PurrfectPair\obj\Debug\net6.0\PurrfectPair.pdb
 C:\Users\Cyra\Source\Repos\PurrfectPair\obj\Debug\net6.0\PurrfectPair.genruntimeconfig.cache
 C:\Users\Cyra\Source\Repos\PurrfectPair\obj\Debug\net6.0\ref\PurrfectPair.dll
+=======
+>>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
