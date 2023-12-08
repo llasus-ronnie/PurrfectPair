@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace PurrfectPair.Models
+﻿namespace PurrfectPair.Models
 {
     public class LoginViewModel
     {

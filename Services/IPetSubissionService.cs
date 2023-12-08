@@ -1,9 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using PurrfectPair.Models;
+﻿using PurrfectPair.Models;
 
 namespace PurrfectPair.Services
 {
-    public interface IPetSubissionService 
+    public interface IPetSubissionService
     {
         Task<List<PetSubmission>> GetPetSubmissionsAsync();
 

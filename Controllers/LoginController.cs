@@ -1,10 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Abstractions;
 using PurrfectPair.Data;
 using PurrfectPair.Models;
-using System;
-using System.Linq;
 
 namespace PurrfectPair.Controllers
 {

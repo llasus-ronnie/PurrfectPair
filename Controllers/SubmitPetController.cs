@@ -1,13 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using Microsoft.AspNetCore.Hosting;
 using PurrfectPair.Data;
 using PurrfectPair.Models;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Hosting;
-using System.Linq;
-using System.IO;
-using System.Threading.Tasks;
 
 
 namespace PurrfectPair.Controllers
@@ -48,7 +41,7 @@ namespace PurrfectPair.Controllers
         {
             try
             {
-                if (pet != null && pet.petPhoto != null )
+                if (pet != null && pet.petPhoto != null)
                 {
                     var userId = HttpContext.Session.GetInt32("UserID");
                     var user = _context.Users.FirstOrDefault(u => u.UserID == userId);
@@ -60,7 +53,7 @@ namespace PurrfectPair.Controllers
                         Directory.CreateDirectory(uploadsFolder);
                     }
                     IFormFile imageFile = pet.petPhoto;
-                    string fileName= DateTime.Now.ToString("yyyyMMddHHmmss")+"_"+Path.GetFileName(pet.petPhoto.FileName);
+                    string fileName = DateTime.Now.ToString("yyyyMMddHHmmss") + "_" + Path.GetFileName(pet.petPhoto.FileName);
                     string fileSavePath = Path.Combine(uploadsFolder, fileName);
 
                     using (FileStream stream = new FileStream(fileSavePath, FileMode.Create))
@@ -79,19 +72,19 @@ namespace PurrfectPair.Controllers
                         UserID = user.UserID,
                         pet_type = pet.pet_type,
                         pet_is_adopting = false
-                    }); 
+                    });
 
                     await _context.SaveChangesAsync();
 
                 }
 
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-                ViewBag.ErrorMessage = ex.Message; 
+                ViewBag.ErrorMessage = ex.Message;
             }
 
-            return RedirectToAction(nameof(ViewStatusController.Index),"ViewStatus");
+            return RedirectToAction(nameof(ViewStatusController.Index), "ViewStatus");
 
         }
 

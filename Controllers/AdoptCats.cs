@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.SignalR;
 using PurrfectPair.Data;
 using PurrfectPair.Models;
 
@@ -18,12 +17,12 @@ namespace PurrfectPair.Controllers
 
         public IActionResult Index()
         {
-            
+
             var petSubmissionModel =
                _context.PetSubmissions.Where(x => x.pet_type == "Cat" && !x.pet_is_adopting)
                .Select(x => new PetSubmissionModel
                {
-                   Address = _context.Users.FirstOrDefault(y=>y.UserID==x.UserID).Address,
+                   Address = _context.Users.FirstOrDefault(y => y.UserID == x.UserID).Address,
                    ContactNumber = _context.Users.FirstOrDefault(y => y.UserID == x.UserID).ContactNumber,
                    Email = _context.Users.FirstOrDefault(y => y.UserID == x.UserID).Email,
                    FirstName = _context.Users.FirstOrDefault(y => y.UserID == x.UserID).FirstName,
@@ -43,7 +42,7 @@ namespace PurrfectPair.Controllers
             var groupedPets = petSubmissionModel.Select((pet, index) => new { Pet = pet, GroupIndex = index / 3 })
                           .GroupBy(x => x.GroupIndex)
                           .Select(group => group.Select(item => item.Pet)).ToList();
-            
+
 
             return View(groupedPets);
         }

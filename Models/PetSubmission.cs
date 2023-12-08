@@ -1,13 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PurrfectPair.Models
 {
     // database model only
-    [Table ("PetSubmitAdoptionTable")]
+    [Table("PetSubmitAdoptionTable")]
     public class PetSubmission
     {
 

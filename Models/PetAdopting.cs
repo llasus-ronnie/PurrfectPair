@@ -22,6 +22,6 @@ namespace PurrfectPair.Models
         public User UserAdopter { get; set; } // ung aampon ng pet
         public PetSubmissionForm Pet { get; set; }
         public string? status { get; set; }
-     
+
     }
 }

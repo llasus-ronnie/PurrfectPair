@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using PurrfectPair.Data;
 using PurrfectPair.Models;
 
@@ -24,7 +23,7 @@ namespace PurrfectPair.Services
         }
 
         public List<PetSubmission> GetPetSubmissions()
-        { 
+        {
             return _submissions;
         }
 

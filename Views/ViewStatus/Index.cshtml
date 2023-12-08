@@ -72,7 +72,7 @@
 
     <div class="container justify-content-center">
     <div class="container-fluid">
-        <h2 class="h2header">For Adoption</h2>
+        <h2 class="h2header">FOR ADOPTION</h2>
         <table class="table table-bordered databasetable" style="width: 77rem;">
             <thead>
                 <tr>
@@ -99,7 +99,9 @@
                         <td>@pet.pet_adoption</td>
                         <td>
                             <button class="btn btn-danger" onclick="">Disable</button>
-                            <button class="btn btn-primary" onclick="">Update</button>
+                                <a class="" asp-area="" asp-controller="UpdateSubmitPet" asp-action="UpdateSubmitPet">
+                                <button class="btn-update" btn btn-primary">Update</button>
+                            </a>
                         </td>
                     </tr>
                 }
@@ -111,7 +113,7 @@
 
     <div class="container justify-content-center">
     <div class="container-fluid">
-        <h2 class="h2header">Adopting Pet</h2>
+        <h2 class="h2header">ADOPTING PET</h2>
         <table class="table table-bordered databasetable" style="width: 77rem;">
             <thead>
                 <tr>
@@ -138,7 +140,9 @@
                         <td>@pet.pet_adoption</td>
                         <td>
                             <button class="btn btn-danger" onclick="">Disable</button>
-                            <button class="btn btn-primary" onclick="">Update</button>
+                                <a class="" asp-area="" asp-controller="UpdateSubmitPet" asp-action="UpdateSubmitPet">
+                                    <button class="btn-update" onclick="">Update</button>
+                                </a>
                         </td>
                     </tr>
                 }
