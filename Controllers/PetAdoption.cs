@@ -1,9 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 using PurrfectPair.Data;
 using PurrfectPair.Models;
-using System.Threading.Tasks;
 
 namespace PurrfectPair.Controllers
 {

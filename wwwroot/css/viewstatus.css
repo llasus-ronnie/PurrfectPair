@@ -98,8 +98,8 @@ body {
     color: #FE97A6;
 }
 
-.btn-logout-text:hover {
-    color: #FE97A6;
+.homebtn:hover, .submitadoptionbtn:hover, .viewstatusbtn:hover {
+    color: #038196;
 }
 
 .usercard {
@@ -168,33 +168,4 @@ body {
     color: antiquewhite;
     font-family: Poppins;
     font-weight: bold;
-}
-
-.btn-delete {
-    width: 100px;
-    height: 30px;
-    border-radius: 40px;
-    border: 1px #58ABAE solid;
-    background: #58ABAE;
-    color: #F4F4F0;
-}
-
-.btn-delete:hover {
-    border: 1px #58ABAE solid;
-    background: #F4F4F0;
-    color: #58ABAE;
-}
-
-.btn-update {
-    width: 100px;
-    height: 30px;
-    border-radius: 40px;
-    border: 1px #FE97A6 solid;
-    background: #FE97A6;
-}
-
-.btn-update:hover {
-    border: 1px #FE97A6 solid;
-    background: #F4F4F0;
-    color: #FE97A6;
 }

@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PurrfectPair.Data;
 using PurrfectPair.Models;
-using System.Threading.Tasks;
 
 namespace PurrfectPair.Controllers
 {

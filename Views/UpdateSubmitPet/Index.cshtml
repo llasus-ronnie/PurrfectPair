@@ -1,4 +1,11 @@
-﻿<!doctype html>
+﻿@model PurrfectPair.Models.User
+
+@{
+    ViewData["Title"] = "Edit Pet Submission";
+}
+
+
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -9,7 +16,6 @@
     <link rel="stylesheet" href="~/PurrfectPair.styles.css" asp-append-version="true" />
     <title>Submit a Pet</title>
 </head>
-<body style="margin-top: 200px;">
     <header>
         <!-- Navigation Bar -->
         <nav class="navbg navbar navbar-expand-sm fixed-top">
@@ -24,7 +30,6 @@
                 <path class="navline" d="M3 3V59" stroke="#038196" stroke-width="5" stroke-linecap="round" />
             </svg>
 
-            <h1 class="navheader">Update Pet Submission</h1>
 
             <div class="collapse navbar-collapse">
                 <ul class="navtext navbar-nav ms-auto">
@@ -49,19 +54,29 @@
             </div>
         </nav>
     </header>
+    <div class="container">
+        <div class="usercard container">
+            <div class="row">
+                <div class="col-3">
+                    <img class="userimg" src="~/images/user-icon.png" alt="Profile Picture" />
+                </div>
+                <div class="col">
+                    <p class="username">@ViewBag.User.FirstName @ViewBag.User.LastName</p>
+                    <p class="useremail">@ViewBag.User.Email | @ViewBag.User.ContactNumber</p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!--form-->
     <form method="post" enctype="multipart/form-data" asp-controller="SubmitPet" asp-action="Index">
         @Html.AntiForgeryToken()
-        <div class="submitborder container pt-3" style="height: 500px;">
             <h1 class="submittitle">EDIT PET SUBMISSION</h1>
             <div class="row">
                 <div class="col-6 form-group">
                     <!--input for pet name-->
-                    <input name="pet_name" id="pet_name" class="inputpetname form-control" type="text" placeholder="New Pet Name" />
                 </div>
                 <div class="col-6 for-group">
                     <!--input for pet age-->
-                    <input name="pet_age" id="pet_age" class="inputpetage form-control" type="text" placeholder="New Pet Age" />
                 </div>
 
             </div>
@@ -70,7 +85,6 @@
                 <div class="col-6 form-group">
                     <!--input pet type-->
                     <select name="pet_type" id="pet_type" class="inputpetname form-control" type="text">
-                        <option value="" disabled selected>New Pet Type</option>
                         <option value="Cat">Cat</option>
                         <option value="Dog">Dog</option>
                     </select>
@@ -78,7 +92,6 @@
                 <div class="col-6 form-group">
                     <!--input for pet gender-->
                     <select name="pet_gender" id="pet_gender" class="inputpetgender form-control" type="text">
-                        <option value="" disabled selected>New Pet Gender</option>
                         <option value="Male">Male</option>
                         <option value="Female">Female</option>
                     </select>
@@ -94,15 +107,12 @@
 
             <div class="imgborder justify-content-center">
                 <!--upload Pet Photo-->
-                <input id="petPhoto" name="petPhoto" type="file" class="form-control uploadimage btn">&nbsp;Upload New Photo</input>
             </div>
             <!--submit a pet button-->
             <button id="submitAPetBtn" type="submit" class="btn submitadoption">SUBMIT CHANGES</button>
         </div>
         <div>
-            <!--<span class="text-success">
                 @ViewBag.Message
-            </span>  -->
         </div>
     </form>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
