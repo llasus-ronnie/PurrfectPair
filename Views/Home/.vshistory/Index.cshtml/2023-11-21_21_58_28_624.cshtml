@@ -1,0 +1,255 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PurrfectPair.styles.css" asp-append-version="true" />
+    <title>Manage Adoption</title>
+</head>
+<body>
+    <header> <!-- Navigation Bar -->
+        <nav class="navbg navbar navbar-expand-sm fixed-top">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                <img src="https://s3-alpha-sig.figma.com/img/0a8a/6062/7b525cd53514ac22a63e0fcbc45f1ff1?Expires=1700438400&Signature=bC9U586Cx2hJJjzYo5c5OSCrYVq0lKNa9rHe4FAql0mPixKttmCpr4R24tfLU~VrnJ8dyV1bpEZK~Ie0YJjMUkw7gMXYITnHpBkuEcPrEvh3us6wqijhgcq6D6eRhekqdidRB2znH2cbHuK0H4TUPVnhoG6bBpV-pjzDqXWS8Y8uqOcp2yJPkguPHk15ekt9b8e-bmWbzNnUGwMm7-xvVdJa6nimn5h9p71YXeM~vTCbAaqLEhuexY5d8N3BJnBoxQLevBTe0W9FiX1jjgH-B0zxqCUdLGKeZrI4CjEeb1XGdpgEpYbWXFOGibpqqq3qfnbFSdx5IU3H8xfOL3Q1Zw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                        class="navlogo" alt="Logo" />
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse">
+                <ul class="navtext navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#About">ABOUT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="Admin" asp-controller="Admin" asp-action="">ADOPT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#FAQs">FAQS</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav">
+                    <li>
+                        <button class="btnlogin nav-item">
+                            <a class="btnlogintext nav-link" asp-area="" asp-controller="" asp-action="">LOG IN</a>
+                        </button>
+                    </li>
+                    <li>
+                        <button class="btnsignup nav-item">
+                            <a class="btnsignuptext nav-link" asp-area="" asp-controller="" asp-action="">SIGN UP</a>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+<div class="container">
+    <div class="container-fluid"> <!-- Welcome Banner -->
+        <div class="row section-divider">
+            <div class="col">
+                <h1 class="banner-title">Be Our<br/><span style="font-size: 110px;">Pawrent!</span></h1>
+                <p class="banner-text">Find your purrfect pair today.<br/></p>
+                <p style="text-align: center;">   
+                    <button class="btnadopt">Adopt Now</button>
+                </p>
+            </div>
+            <div class="col">
+                <img src="https://s3-alpha-sig.figma.com/img/5319/52fe/ba4112e245919f265c5d72a22c3d55a8?Expires=1701043200&Signature=AYniul0AW6PjIlW5r6Nn6v0OjWjDfvMH4K77mGo7~R2rUFMLlEy2TIHlfk08IAiP-wST5cQ6ZovBhSZoP21vCaGMhCyGaQyWWuPNl5lxFe0t8UXORmntVZvEVH4n271UzH~EcV8mYPTfx~AR7USIw~sxxMyamE-2lS4l8d1ou3tN9uXaFU4JL88kJeey~Kx9nGo~auneaErQyW9V8BknRX83YDIBTBP2hM4DN0p5Vq2Y8mjCJhVaylmg7t7RRcIPcZdMosXrQTqKgVaD8X~hjU4Eg5IeEP73Jx036w8pV6Vn--oiSj8Zo09lulKPbSEK3u2fUfZ0wQIJFMl5O1NJEA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                    class="banner-img" alt="Cat and Dog" />
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid"> <!-- Cards -->
+        <div class="row section-divider">
+            <div class="col col-lg col-sm-1 box-about">
+                <a href="#About"><div class="btn-about">ABOUT</div></a>
+                    <p class="box-texts">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Porttitor massa id neque aliquam vestibulum morbi blandit cursus. </p>
+                    <div class="about-img">
+                        <img src="https://s3-alpha-sig.figma.com/img/5b74/b46e/ffde0f2a1e12b7b51ac1ac2578f6e1e2?Expires=1701043200&Signature=Gk8hd3zBgF5p2thCHHSkfW9-KG40ZG9RFdvBFJDVsB~BSjY~8MFgxmOOez7h6oqMCnkfEy1fPO34KPKqyp9Y7p8UKYwxvFDmyegpmVBLCEro97K5zQeEJdINd8RXRTNt-MbX8pa2sklyEQT0O7GCt2M~p1okoNsqoFwHD~uESGjyXD9T5gU7FdCsN6IDESHdWry~7uvYeCnDH11MQXnSHaIg2vB5oRcwIGpkWaMhdE0Uj2NuHt23XstfwAlgUAgnOaCbKWrKzzTIL4vVoCKaddjBefD-ZxOwhELo~tOsP6M-6S9ryl2DMjts2-dbhDpuLtyr~squwxhrqD1NTHJxdQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
+                    </div>
+            </div>
+                <div class="col col-lg col-sm-1 box-adoption">
+                <div class="btn-adoption">ADOPTION</div>
+                    <p class="box-texts">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Porttitor massa id neque aliquam vestibulum morbi blandit cursus. </p>
+                <div class="adoption-img">
+                    <img src="https://s3-alpha-sig.figma.com/img/3f66/eff3/21812ac8f4ada6e43b8ddc1361009ade?Expires=1701043200&Signature=j0tke~HGFa0ISw6m7h1czcpnSs-0zSvHdWSm7WqUlBpvzTGtvFTSFHMuM25LJnmVYOcrH751c2Lx~GUnqSqbeL~Q9-MOhypHlKT2tDT7Xh2XwpJpcxro6vxfH~EW6hQ1VoI8RS5Iz-OdPIlgEYu-o-Pt1jbhQh23dnrsxW-nZffUKLVNsuVoqo4MZ-YVlZ3YmQ-y9EWAwrxaCl~R67dBcaP8Hn~1SPphivrVkIl0ZPQxikDkVDVDDOkWxfXwNQt1L78T5WVcqB~A9QC0QNfjtebtqXo~eXePfZUXbZ5kGUrGA4UiptGuXBtWp5i3jTxI-IRrxmCOKXbSn98KT-~60Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
+                </div>
+            </div>
+                <div class="col col-lg col-sm-1 box-faqs">
+                <a href="#FAQs"><div class="btn-faqs">FAQs</div></a>
+                    <p class="box-texts">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Porttitor massa id neque aliquam vestibulum morbi blandit cursus. </p>
+                <div class="faqs-img">
+                    <img src="https://s3-alpha-sig.figma.com/img/e180/6e45/91e4910ba23f7d8351ebe9e2449deb4a?Expires=1701043200&Signature=mfd9jeS9MIXjzHHsOR~iyp8Iwn2ZoVloTkzjm~8kMxV2QoFKDEGJ22kPKRiddfoD5DkimpV5FqKluizpgqz8mkyUqJgy5jIp9F5IriYTu1Wuo6YxlWYweG0C6aP2mjIGGUzZMTqYurNcKE89Ngwf7hWTnFe9FCFUVZTNa80Xii4FFy~-O4zvbAYGcHC59cy5~21rehSem~VtA43COlLpKP~h5cu53UvsSZOochLmcLCenNtKJROoHnCTcUWV15IXPAntxwutRENILlZrAfHbhP1JX~4Vu5SWBPPp0rT2M91mzaNxEB~RlqGl0pfPCKCJAhqqb6N1ZCXXnfcg17c~eA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid" id="About"> <!-- About Section -->
+        <div class="row section-divider">
+            <div class="col">
+                <img src="https://s3-alpha-sig.figma.com/img/87a6/c85c/811c6ca4027d06fff5d78fb625abe9ec?Expires=1701043200&Signature=TEaXQRBN9pBZA1jwF8fXAAU-JcGFlhzmXML8hCntWCtWHVgIk~VPivrHbiOu7mvxoCWIgJ-7IaH4g8GoYtDZNv~-5TKq9AQ4H-5iOFRdGnDZxGTHjGdtCinmtTJQsF5oDSBa9AoMYn056pTDVg9bo9UacLkSCMssCKJ-qiwvLbOXQoKT7LYrEGQ0Z6JucIT-Ac0Ykw2kim~i7nsiqxby4mYHwWGLfN9cFt-vWCeKeMrkpaddI~mZ17-5IC9iJxqJivfuJK3ferBapdHD83rBUEYVMF5wU1SqCEjnONdiTUFPjIiotoJUEL0XbFFwWR8CJ9izFEYoRduv8wszd~8ClA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" 
+                     class="about-img" />
+            </div>
+            <div class="col">
+                <h1 class="about-title">What is
+                        <img src="https://s3-alpha-sig.figma.com/img/a968/dbd8/0b6000f37e19053ed479d8ffc02ad642?Expires=1701043200&Signature=AgXWeV4PuG1saPeH4UHYo-cFwYqRTtgzpAvxYYYkr3TTDD9uE5GRxA8OLp998dXOfURfVFro5ovq1WI3No3VC4G~vIH4~n88uN8GRQGNZobyw6~9Iq1hmoIrALZYomr2Ddaqlxtoltg4qcyiGLnpv~Q2emefva-0jDP72Wu4wBgufcnZIgcJwtRo2hGBKbGG17Sz0ufY88Olnp91Zwe7A9qjzlVys0bBrWz00h-SAc73cmuwpuQDYkb4c1v3R06IFsy127Wx0tpBETTskt3BvWO~ge~1mKtp0UoG6oqv0hxAgRbqXX0A8Ucb6TYQKJX-0fj6wzU82oPcfbJUWA27bA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                         class="about-logo" />?
+                </h1>
+                <p class="about-text">
+                    lorem ipsum dolor sit amet consectetur adipiscing elitQuisque rutrum. Aenean imperdi. Etiam ultricies nisi vel augue. 
+                    Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget.<br /><br />
+                    lorem ipsum dolor sit amet consectetur adipiscing elitQuisque rutrum. Aenean imperdi. Etiam ultricies nisi vel augue. 
+                    Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid" id="FAQs">
+        <div class="section-divider"> <!-- FAQs Setion -->
+        <h2 class="faqs-title">Frequently Asked Questions</h2>
+            <div class="accordion" id="accordionFlushExample">
+                <div class="accordion-item mb-2">
+                    <h2 class="accordion-header mb-0" id="flush-headingOne">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                            Question 1
+                        </button>
+                    </h2>
+                    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Animi id, earum quis mollitia illum beatae laboriosam ipsa architecto eaque,
+                            deleniti neque veniam odit quas laudantium dolor, nobis molestiae quibusdam assumenda.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item mb-2">
+                    <h2 class="accordion-header mb-0" id="flush-headingTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                            Question 2
+                        </button>
+                    </h2>
+                    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Animi id, earum quis mollitia illum beatae laboriosam ipsa architecto eaque,
+                            deleniti neque veniam odit quas laudantium dolor, nobis molestiae quibusdam assumenda.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item mb-2">
+                    <h2 class="accordion-header mb-0" id="flush-headingThree">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                            Question 3
+                        </button>
+                    </h2>
+                    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Animi id, earum quis mollitia illum beatae laboriosam ipsa architecto eaque,
+                            deleniti neque veniam odit quas laudantium dolor, nobis molestiae quibusdam assumenda.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item mb-2">
+                    <h2 class="accordion-header mb-0" id="flush-headingFour">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                            Question 4
+                        </button>
+                    </h2>
+                    <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Animi id, earum quis mollitia illum beatae laboriosam ipsa architecto eaque,
+                            deleniti neque veniam odit quas laudantium dolor, nobis molestiae quibusdam assumenda.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item mb-2">
+                    <h2 class="accordion-header mb-0" id="flush-headingFive">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                            Question 5
+                        </button>
+                    </h2>
+                    <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Animi id, earum quis mollitia illum beatae laboriosam ipsa architecto eaque,
+                            deleniti neque veniam odit quas laudantium dolor, nobis molestiae quibusdam assumenda.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item mb-2">
+                    <h2 class="accordion-header mb-0" id="flush-headingSix">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                            Question 6
+                        </button>
+                    </h2>
+                    <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Animi id, earum quis mollitia illum beatae laboriosam ipsa architecto eaque,
+                            deleniti neque veniam odit quas laudantium dolor, nobis molestiae quibusdam assumenda.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item mb-2">
+                    <h2 class="accordion-header mb-0" id="flush-headingSeven">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                            Question 7
+                        </button>
+                    </h2>
+                    <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Animi id, earum quis mollitia illum beatae laboriosam ipsa architecto eaque,
+                            deleniti neque veniam odit quas laudantium dolor, nobis molestiae quibusdam assumenda.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </div>
+ </div>
+
+<div style="margin-top: 7rem;">
+    <footer class=""> <!-- Footer -->
+            <div class="top-footer flex-shrink-0 py-4"></div>
+        <div class="body-footer">
+            <div class="row">
+                <div class="col col-lg-3 m-5">
+                    <img src="https://s3-alpha-sig.figma.com/img/0a8a/6062/7b525cd53514ac22a63e0fcbc45f1ff1?Expires=1701648000&Signature=SBSDykoLD6Uj~8y2-ySElJNHsRDTygAj95t-b47Z~gdaLZB9NbA6HOoDuuREjKvJbJWmNFoDBywL92COU-93VznbBsY48~XxlTvJPY3zI161Gs96yLlWvomzizSaPHW1MqH2wRfFxhztEFHPNls3166E9k7eDe7xCHqe9j5dhwlF-NJGKEKWa-WqqDSK5NMcMvTMlJ4EL7hjgqKiYieM8LN1CZOf9B4d01ghE0yM5gC9D1JFe-N6~NaSnZZP3x17dTv7ChEcL8D86R~Nf1Yahh8VO7gPYd827MTrZjKUCan3ytQl9OMYiBCDCyqRuwG-ugnZPD1-yh8kYLHTC8tXQQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                        class="footer-logo" />
+                        <p class="footer-text">
+                            lorem ipsum dolor set <br />
+                            lorem ipsum dolor set <br />
+                            lorem ipsum dolor set <br /> 
+                        </p>
+                </div>
+                <div class="col col-lg-3 col-sm-6 m-5">
+                    <h6 class="footer-titles">PURRFECT TEAM</h6>
+                </div>
+                <div class="col col-lg-3 col-sm-6 m-5">
+                    <h6 class="footer-titles">PURRFECT TEAM</h6>
+                </div>
+                <div class="col col-lg-3 col-sm-6 m-5">
+                    <h6 class="footer-titles">PURRFECT TEAM</h6>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+    
+</body>

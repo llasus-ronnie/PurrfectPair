@@ -1,0 +1,61 @@
+﻿body {
+    background: #FFD6D4;
+    overflow-x: hidden;
+    background-image: url('https://s3-alpha-sig.figma.com/img/ee81/eda2/6507453289107779f1497b71d25dca00?Expires=1701648000&Signature=KPD9Fv2sTmnUAwybJvkL77zFGTK~lp0usnO5XPW~MDjeM63aLmME55tngn-LJ0fQoOaffVp~vGWuXmKANntbs2xHhueVUPAmAfRjnkRP~KCppJanmbt6AKcKIw-dMsatEW3Q~3N~eQJRzV8FL4d7lTzEePFJfpAlNINPCm~8oP6KNbfheNKJoO9rZ1RrJzXqzEGljR~KqX84bcpB9OzGBnBii~vFRa613dHPAT5HN2R70tRaK8WIows81tHqKSD5Dx7jSuALOfodl4NMy0b-xoIlOeMoQ59Dw2yvz93MQzchZ7xvJL5A~JiGenwZ7BIEkJmAAj~CjohXbbMn7ACVSw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4') background-repeat: repeat-y;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.left-side {
+    background: #FAF4F0;
+    top: 0;
+    left: 0;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    position: relative;
+
+}
+
+.right-side {
+    top: 0;
+    right: 0;
+    height: 100%;
+    z-index: -1;
+}
+
+.left-frame {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    margin-top: 3rem;
+    flex-shrink: 0;
+}
+
+.left-dog {
+    width: 90%;
+    height: auto;
+    flex-shrink: 0;
+}
+
+.right-wrapper {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin-top: 5rem;
+}
+
+.login-card {
+    width: 70%;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.90);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}

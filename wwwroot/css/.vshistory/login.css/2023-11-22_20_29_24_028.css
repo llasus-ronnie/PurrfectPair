@@ -1,0 +1,126 @@
+﻿body {
+    background: #FFD6D4;
+    overflow-x: hidden;
+    background-image: url('https://s3-alpha-sig.figma.com/img/4dbc/0e4f/b70dfa36a6908da5e0e993d046ad4ac3?Expires=1701043200&Signature=oAVN1Pf~eOCuzzKhY03JJRkRK~oK07dfQ3SM8ebejChQUuxqG9Mr4ir~dR8JiE8aX2ZnABZOis04YHYkV6DNJK866C3VUGCc82I381xA42BlyMWPI5wDtFmScp3Ctpz-euHOSVqOguHYqNN90lzKEyq4eUYZe5p8Iz7IVYStDvyhdiP-uru5csC1Td8LKzhydCz9kbKR5br8zH5cgEYKI2krx3j~R1VVw-KXzjNtOoxxfBdcGp8lBdc8xXzZtdZLPz-8YynsCG-j2tqatJYqNiDZbkJv97hA5QNIhNdmxsXP5pnlM1Al0VzUsFJg6SRKGB8sorRTpVSw98jAuB5Q~Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background-size: contain;
+    background-position: top right;
+    background-repeat: repeat-y;
+}
+
+.left {
+    background: #FBF1ED;
+    background-size: cover;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+}
+
+.left-logo {
+    width: 100%;
+    height: auto;
+    margin-top: 1rem;
+}
+
+.left-frame {
+    margin-top: 0;
+    left: 50%;
+    width: 100%;
+    height: auto;
+    left: 0;
+    bottom: 0;
+}
+
+.right {
+    right: 0;
+    position: absolute;
+}
+
+.right-wrapper {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 5rem;
+}
+
+.login-card {
+    margin: auto;
+    width: 70%;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.90);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.login-title {
+    color: #FE97A6;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+}
+
+.login-field {
+    width: 70%;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: rgba(217, 217, 217, 0.90);
+    border: none;
+    margin: 1rem;
+    color: rgba(0, 0, 0, 0.50);
+    padding: 30px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.login-btn {
+    width: 191px;
+    height: 51px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: #FE97A6;
+    color: #FFF;
+    border: none;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 2rem;
+}
+
+.login-btn:hover {
+    border: 1px solid #FE97A6;
+    background: none;
+    color: #FE97A6
+}
+
+.login-text {
+    color: black;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 2rem;
+}
+
+.text-link {
+    color: #FE97A6;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}

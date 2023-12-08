@@ -1,0 +1,370 @@
+﻿body {
+    background-image: url('https://s3-alpha-sig.figma.com/img/4dbc/0e4f/b70dfa36a6908da5e0e993d046ad4ac3?Expires=1701043200&Signature=oAVN1Pf~eOCuzzKhY03JJRkRK~oK07dfQ3SM8ebejChQUuxqG9Mr4ir~dR8JiE8aX2ZnABZOis04YHYkV6DNJK866C3VUGCc82I381xA42BlyMWPI5wDtFmScp3Ctpz-euHOSVqOguHYqNN90lzKEyq4eUYZe5p8Iz7IVYStDvyhdiP-uru5csC1Td8LKzhydCz9kbKR5br8zH5cgEYKI2krx3j~R1VVw-KXzjNtOoxxfBdcGp8lBdc8xXzZtdZLPz-8YynsCG-j2tqatJYqNiDZbkJv97hA5QNIhNdmxsXP5pnlM1Al0VzUsFJg6SRKGB8sorRTpVSw98jAuB5Q~Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background-size: contain;
+    background-repeat: repeat-y;
+    background-position: center;
+    padding-top: 100px;
+    background-color: #FAF4F0;
+}
+
+.navbg {
+    background-color: #038196;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+}
+
+.navlogo {
+    width: 218px;
+    margin-left: 1rem;
+}
+
+.navtext {
+    float: right;
+}
+
+.navtext li a {
+    color: #FAF4F0;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 700;
+    margin: 2rem;
+}
+
+.navtext li a:hover {
+    color: #FE97A6;
+}
+
+.btnlogin {
+    border: 4px solid #FE97A6;
+    background-color: #038196;
+    border-radius: 25px;
+    width: 170px;
+    height: 50px;
+    margin-left: 1rem;
+}
+
+.btnlogintext {
+    color: #FE97A6;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    padding: 3px;
+    font-weight: 700;
+}
+
+.btnlogin:hover {
+    border: 4px solid #FE97A6;
+    background-color: #FE97A6;
+}
+
+.btnlogintext:hover {
+    color: #FAF4F0;
+}
+
+.btnsignup {
+    border: 4px solid #FE97A6;
+    background-color: #FE97A6;
+    border-radius: 25px;
+    width: 170px;
+    height: 50px;
+    margin-left: 1rem;
+    margin-right: 2rem;
+}
+
+.btnsignuptext {
+    color: #FAF4F0;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    padding: 3px;
+    font-weight: 700;
+}
+
+.btnsignup:hover {
+    border: 4px solid #FE97A6;
+    background-color: #038196;
+}
+
+.btnsignuptext:hover {
+    color: #FE97A6;
+}
+
+.section-divider {
+    position: relative;
+    margin: 4rem 1rem 2rem 1rem;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.banner-title {
+    color: #58ABAE;
+    margin-top: 4rem;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 0.9;
+}
+
+.banner-text {
+    color: #58ABAE;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 3;
+}
+
+.btnadopt {
+    border: none;
+    background-color: #FE97A6;
+    border-radius: 25px;
+    width: 213px;
+    height: 42px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    color: #FAF4F0;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.btnadopt:hover {
+    background: #58ABAE;
+}
+
+.banner-img {
+    width: 502px;
+    height: 535px;
+}
+
+.box-about {
+    width: 425px;
+    height: 350px;
+    margin: 1rem;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #A5CBC6;
+ 
+}
+
+.box-adoption {
+    width: 425px;
+    height: 350px;
+    margin: 1rem;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #FFD6D4;
+    overflow: hidden;
+}
+
+.box-faqs {
+    width: 425px;
+    height: 350px;
+    margin: 1rem;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #58ABAE;
+    overflow: hidden;
+}
+
+.btn-about {
+    width: 219px;
+    height: 45px;
+    margin: 1rem;
+    padding: 3px;
+    border-radius: 15px;
+    background: #FAF4F0;
+    float: right;
+
+    color: #A5CBC6;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.btn-about:hover {
+    background: #A5CBC6;
+    color: #FAF4F0;
+    border: 1px solid #FAF4F0;
+}
+
+.btn-adoption {
+    width: 219px;
+    height: 45px;
+    margin: 1rem;
+    padding: 3px;
+    border-radius: 15px;
+    background: #FAF4F0;
+    float: right;
+
+    color: #FFD6D4;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.btn-adoption:hover {
+    background: #FFD6D4;
+    color: #FAF4F0;
+    border: 1px solid #FAF4F0;
+}
+
+.btn-faqs {
+    width: 219px;
+    height: 45px;
+    margin: 1rem;
+    padding: 3px;
+    float: right;
+    border-radius: 15px;
+    background: #FAF4F0;
+
+    color: #58ABAE;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.btn-faqs:hover {
+    background: #58ABAE;
+    color: #FAF4F0;
+    border: 1px solid #FAF4F0;
+}
+
+.about-img {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.about-img img {
+    position: absolute;
+    left: -3%;
+    bottom: -7%;
+    width: 239px;
+}
+
+.adoption-img {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.adoption-img img {
+    position: absolute;
+    left: -20%;
+    bottom: -5%;
+    width: 285px;
+    height: 257px;
+}
+
+.faqs-img {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.faqs-img img {
+    position: absolute;
+    left: -28%;
+    bottom: -5%;
+    width: 329px;
+    height: 179px;
+    transform: rotate(-8.302deg);
+}
+
+.box-texts {
+    color: #032539;
+    text-align: right;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    float: right; 
+    margin-left: 9rem;
+    margin-right: 1rem;
+}
+
+.about-img {
+    width: 581px;
+    height: 581px;
+}
+
+.about-logo {
+    width:320px;
+    height: auto;
+}
+
+.about-title {
+    color: #58ABAE;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.about-text {
+    color: rgba(60, 60, 67, 0.85);
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    text-align: justify-all;
+}
+
+.faqs-title {
+    color: #58ABAE;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 70px;
+    font-weight: 700;
+    margin: 2rem;
+}
+
+.accordion-button {
+    color: #FE97A6;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 90%;
+    background: #FFD6D4;
+}
+
+.accordion-button:not(.collapsed) {
+    background: #FFD6D4;
+    color: #FE97A6;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11' height='7' viewBox='0 0 11 7' fill='none'%3E%3Cpath d='M5.17605 4.52953L8.83305 0.872531C8.8996 0.799444 8.98015 0.740452 9.06991 0.699049C9.15968 0.657645 9.25683 0.634671 9.35563 0.631487C9.45443 0.628303 9.55287 0.644973 9.64511 0.68051C9.73735 0.716047 9.82153 0.76973 9.89266 0.83838C9.96378 0.90703 10.0204 0.989251 10.0592 1.08018C10.098 1.1711 10.1181 1.26889 10.1184 1.36774C10.1188 1.46659 10.0992 1.5645 10.061 1.65567C10.0228 1.74684 9.96673 1.82943 9.89605 1.89853L9.87805 1.91653L5.69905 6.09653C5.56046 6.23509 5.37252 6.31293 5.17655 6.31293C4.98058 6.31293 4.79263 6.23509 4.65405 6.09653L0.475048 1.91753C0.40525 1.8501 0.349418 1.76958 0.31074 1.68057C0.272061 1.59155 0.251293 1.4958 0.249621 1.39876C0.24795 1.30172 0.265408 1.20531 0.300998 1.11502C0.336588 1.02473 0.389614 0.942329 0.457048 0.872531C0.524482 0.802734 0.605003 0.746902 0.694014 0.708223C0.783025 0.669544 0.878783 0.648776 0.97582 0.647105C1.07286 0.645433 1.16927 0.662891 1.25956 0.698481C1.34985 0.734072 1.43225 0.787098 1.50205 0.854531L1.52005 0.872531L5.17605 4.52953Z' fill='%23FE97A6' stroke='%23FE97A6' stroke-width='0.5'/%3E%3C/svg%3E");
+}
+
+
+    .accordion-button::after {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='17' viewBox='0 0 16 17' fill='none'%3E%3Cpath d='M9.24145 8.47996L5.58444 4.82296C5.51136 4.7564 5.45237 4.67586 5.41096 4.58609C5.36956 4.49633 5.34659 4.39917 5.3434 4.30037C5.34022 4.20157 5.35689 4.10314 5.39242 4.01089C5.42796 3.91865 5.48164 3.83448 5.55029 3.76335C5.61894 3.69222 5.70116 3.6356 5.79209 3.59681C5.88302 3.55803 5.9808 3.53789 6.07965 3.53757C6.1785 3.53725 6.27641 3.55677 6.36759 3.59497C6.45876 3.63317 6.54134 3.68927 6.61044 3.75996L6.62844 3.77796L10.8084 7.95696C10.947 8.09554 11.0248 8.28349 11.0248 8.47946C11.0248 8.67543 10.947 8.86337 10.8084 9.00196L6.62945 13.181C6.56201 13.2508 6.48149 13.3066 6.39248 13.3453C6.30347 13.3839 6.20771 13.4047 6.11067 13.4064C6.01364 13.4081 5.91722 13.3906 5.82693 13.355C5.73664 13.3194 5.65424 13.2664 5.58445 13.199C5.51465 13.1315 5.45882 13.051 5.42014 12.962C5.38146 12.873 5.36069 12.7772 5.35902 12.6802C5.35735 12.5831 5.37481 12.4867 5.4104 12.3964C5.44599 12.3062 5.49901 12.2238 5.56645 12.154L5.58445 12.136L9.24145 8.47996Z' fill='%23FE97A6' stroke='%23FE97A6' stroke-width='0.5'/%3E%3C/svg%3E");
+    }
+
+.accordion-body {
+    color: rgba(60, 60, 67, 0.85);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    background: #FFD6D4;
+}
+
+.accordion-item {
+    padding: 10px;
+    background: #FFD6D4;
+    border-radius: 10px;
+}

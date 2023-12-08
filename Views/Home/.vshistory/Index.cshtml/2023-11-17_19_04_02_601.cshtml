@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PurrfectPair.styles.css" asp-append-version="true" />
+    <title>Manage Adoption</title>
+</head>
+<body>
+    <header>
+        <nav class="navbg navbar navbar-expand-sm fixed-top">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                <img src="https://s3-alpha-sig.figma.com/img/0a8a/6062/7b525cd53514ac22a63e0fcbc45f1ff1?Expires=1700438400&Signature=bC9U586Cx2hJJjzYo5c5OSCrYVq0lKNa9rHe4FAql0mPixKttmCpr4R24tfLU~VrnJ8dyV1bpEZK~Ie0YJjMUkw7gMXYITnHpBkuEcPrEvh3us6wqijhgcq6D6eRhekqdidRB2znH2cbHuK0H4TUPVnhoG6bBpV-pjzDqXWS8Y8uqOcp2yJPkguPHk15ekt9b8e-bmWbzNnUGwMm7-xvVdJa6nimn5h9p71YXeM~vTCbAaqLEhuexY5d8N3BJnBoxQLevBTe0W9FiX1jjgH-B0zxqCUdLGKeZrI4CjEeb1XGdpgEpYbWXFOGibpqqq3qfnbFSdx5IU3H8xfOL3Q1Zw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                        class="navlogo" alt="Logo" />
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse">
+                <ul class="navtext navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="" asp-action="">ABOUT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="Admin" asp-controller="Admin" asp-action="">ADOPT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="" asp-action="">FAQS</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav">
+                    <li>
+                        <button class="btnlogin nav-item">
+                            <a class="btnlogintext nav-link" asp-area="" asp-controller="" asp-action="">LOG IN</a>
+                        </button>
+                    </li>
+                    <li>
+                        <button class="btnsignup nav-item">
+                            <a class="btnsignuptext nav-link" asp-area="" asp-controller="" asp-action="">SIGN UP</a>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+<div class="container-fluid">
+    <div class="row banner-welcome">
+        <div class="col">
+            <h1 class="banner-title">Be Our<br/><span style="font-size: 110px;">Pawrent!</span></h1>
+            <p class="banner-text">Find your purrfect pair today.<br/></p>
+            <p style="text-align: center;">   
+                <button class="btnadopt">Adopt Now</button>
+            </p>
+        </div>
+        <div class="col">
+            <img src="https://s3-alpha-sig.figma.com/img/5319/52fe/ba4112e245919f265c5d72a22c3d55a8?Expires=1701043200&Signature=AYniul0AW6PjIlW5r6Nn6v0OjWjDfvMH4K77mGo7~R2rUFMLlEy2TIHlfk08IAiP-wST5cQ6ZovBhSZoP21vCaGMhCyGaQyWWuPNl5lxFe0t8UXORmntVZvEVH4n271UzH~EcV8mYPTfx~AR7USIw~sxxMyamE-2lS4l8d1ou3tN9uXaFU4JL88kJeey~Kx9nGo~auneaErQyW9V8BknRX83YDIBTBP2hM4DN0p5Vq2Y8mjCJhVaylmg7t7RRcIPcZdMosXrQTqKgVaD8X~hjU4Eg5IeEP73Jx036w8pV6Vn--oiSj8Zo09lulKPbSEK3u2fUfZ0wQIJFMl5O1NJEA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                class="banner-img" alt="Cat and Dog" />
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-1 box-about">
+            <div class="btn-about">ABOUT</div>
+            <div class="about-img">
+                <img src="" />
+            </div>
+            <p class="box-texts"></p>
+            
+        </div>
+        <div class="col-1 box-adoption">
+            <div class="btn-adoption">ADOPTION</div>
+            <div class="about-img">
+                    <img src="" />
+            </div>
+            <p class="box-texts"></p>
+            
+        </div>
+        <div class="col-1 box-faqs">
+            <div class="btn-faqs">FAQs</div>
+            <div class="about-img">
+                    <img src="" />
+            </div>
+            <p class="box-texts"></p>
+        </div>
+    </div>
+</div>
+
+</body>
