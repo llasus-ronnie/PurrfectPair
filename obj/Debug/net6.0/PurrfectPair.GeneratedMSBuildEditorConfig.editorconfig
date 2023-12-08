@@ -18,74 +18,74 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Cyra\Source\Repos\PurrfectPair
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/Admin/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/AdoptCats/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/AdoptCats/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRDYXRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/AdoptDogs/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/AdoptDogs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHREb2dzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/Home/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/Home/Privacy.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/Login/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/PetAdoption/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/PetAdoption/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0QWRvcHRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/PetSelection/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/PetSelection/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0U2VsZWN0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/Shared/Error.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/SignUp/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/SignUp/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/SubmitPet/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/SubmitPet/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VibWl0UGV0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/UpdatePetAdoption/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/UpdatePetAdoption/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlUGV0QWRvcHRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/UpdateSubmitPet/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/UpdateSubmitPet/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3VibWl0UGV0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/ViewStatus/Index.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/ViewStatus/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld1N0YXR1c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/_ViewImports.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/_ViewStart.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyra/Source/Repos/PurrfectPair/Views/Shared/_Layout.cshtml]
+[C:/Users/Cyra/source/repos/PurrfectPair/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pv3nxijs6q

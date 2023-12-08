@@ -192,7 +192,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico))</OriginalItemSpec>
     </StaticWebAsset>
-<<<<<<< HEAD
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\about-card-img.png))">
       <SourceType>Package</SourceType>
       <SourceId>PurrfectPair</SourceId>
@@ -401,8 +400,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\welcome-banner-img.png))</OriginalItemSpec>
     </StaticWebAsset>
-=======
->>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\js\site.js))">
       <SourceType>Package</SourceType>
       <SourceId>PurrfectPair</SourceId>
@@ -1363,7 +1360,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\20231208030358_CatTest.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-<<<<<<< HEAD
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\20231208223327_Mobile Prog (3).png))">
       <SourceType>Package</SourceType>
       <SourceId>PurrfectPair</SourceId>
@@ -1380,7 +1376,21 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\20231208223327_Mobile Prog (3).png))</OriginalItemSpec>
     </StaticWebAsset>
-=======
->>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\20231208233136_vlcsnap-2023-11-08-11h22m31s849.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>PurrfectPair</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PurrfectPair</BasePath>
+      <RelativePath>uploads/20231208233136_vlcsnap-2023-11-08-11h22m31s849.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\20231208233136_vlcsnap-2023-11-08-11h22m31s849.png))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

@@ -19,7 +19,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
-        options.AccessDeniedPath = "/Accou nt/AccessDenied";
+        options.AccessDeniedPath = "/Account/AccessDenied";
         options.LoginPath = "/Account/Login"; // Customize this based on your login route
     });
 

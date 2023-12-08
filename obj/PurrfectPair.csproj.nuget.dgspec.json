@@ -1,43 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> d18db0744be4706640a3f58c109c560e6956996c
-    "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\PurrfectPair.csproj": {}
+    "C:\\Users\\Cyra\\source\\repos\\PurrfectPair\\PurrfectPair.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\PurrfectPair.csproj": {
+    "C:\\Users\\Cyra\\source\\repos\\PurrfectPair\\PurrfectPair.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\PurrfectPair.csproj",
+        "projectUniqueName": "C:\\Users\\Cyra\\source\\repos\\PurrfectPair\\PurrfectPair.csproj",
         "projectName": "PurrfectPair",
-        "projectPath": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\PurrfectPair.csproj",
+        "projectPath": "C:\\Users\\Cyra\\source\\repos\\PurrfectPair\\PurrfectPair.csproj",
         "packagesPath": "C:\\Users\\Cyra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cyra\\Source\\Repos\\PurrfectPair\\obj\\",
+        "outputPath": "C:\\Users\\Cyra\\source\\repos\\PurrfectPair\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cyra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-<<<<<<< HEAD
-=======
-=======
-    "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\PurrfectPair.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\PurrfectPair.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\PurrfectPair.csproj",
-        "projectName": "PurrfectPair",
-        "projectPath": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\PurrfectPair.csproj",
-        "packagesPath": "C:\\Users\\llasu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\llasu\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
->>>>>>> d18db0744be4706640a3f58c109c560e6956996c
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,15 +74,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
->>>>>>> 911251be537bee51cfc07024061b4381cc7670a3
->>>>>>> d18db0744be4706640a3f58c109c560e6956996c
         }
       }
     }

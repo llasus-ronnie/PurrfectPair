@@ -169,3 +169,30 @@ body {
     font-family: Poppins;
     font-weight: bold;
 }
+
+.btn-update {
+    border-radius: 40px;
+    background: #FE97A6;
+    border: 1px #FE97A6 solid;
+    width: 100px;
+}
+
+    .btn-update:hover {
+        border: 1px #FE97A6 solid;
+        color: #FE97A6;
+        background: #FAF4F0;
+    }
+
+.btn-delete {
+    border-radius: 40px;
+    background: #038196;
+    border: 1px #038196 solid;
+    color: #FAF4F0;
+    width: 100px;
+}
+
+    .btn-delete:hover {
+        background: #FAF4F0;
+        border: 1px #038196 solid;
+        color: #038196;
+    }

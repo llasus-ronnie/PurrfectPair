@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Controllers",
-    "\\Models",
-    "\\Views",
-    "\\Views\\Login",
-    "\\Views\\PetSelection",
-    "\\Views\\ViewStatus"
+    ""
   ],
-  "SelectedNode": "\\Models\\PetAdoptionForm.cs",
+  "SelectedNode": "\\PurrfectPair.sln",
   "PreviewInSolutionExplorer": false
 }
