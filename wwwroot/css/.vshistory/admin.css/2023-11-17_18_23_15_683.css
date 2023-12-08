@@ -1,0 +1,163 @@
+﻿html {
+    font-size: 14px;
+    
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: #58ABAE;
+}
+
+.navbg {
+    width: 100%;
+    height: 123px;
+    flex-shrink: 0;
+    background-color: #FAF4F0;
+}
+
+.navlogo {
+    width: 218px;
+    margin-right: 3rem;
+}
+
+.navline {
+    width: 0px;
+    height: 56px;
+    flex-shrink: 0;
+}
+
+.navheader {
+    color: #038196;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left:3rem;
+}
+
+.adoptionborder {
+    display: inline-block;
+    float: left;
+    width: 15.875rem;
+    height: 2.125rem;
+    flex-shrink: 0;
+    border-radius: 1.875rem;
+    background: #FE97A6;
+    margin-top: 10.9rem;
+}
+
+.adoptiontext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FAF4F0;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.peopleborder {
+    display: inline-block;
+    float: left;
+    width: 15.875rem;
+    height: 2.125rem;
+    flex-shrink: 0;
+    border-radius: 1.875rem;
+    background: #FE97A6;
+    margin-left: 19.8rem;
+    margin-right: 39.5rem;
+}
+
+.peopletext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FAF4F0;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.petsborder {
+    display: inline-block;
+    float: left;
+    width: 15.875rem;
+    height: 2.125rem;
+    flex-shrink: 0;
+    border-radius: 1.875rem;
+    background: #FE97A6;
+    margin-left: 39.5rem;
+    margin-right: 19.8rem;
+}
+
+.petstext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FAF4F0;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.analyticsborder {
+    display: inline-block;
+    float: left;
+    width: 15.875rem;
+    height: 2.125rem;
+    flex-shrink: 0;
+    border-radius: 1.875rem;
+    background: #FE97A6;
+    margin-left: 59.3rem;
+}
+
+.analyticstext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FAF4F0;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+
+
+
+
+
+

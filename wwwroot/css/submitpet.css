@@ -1,0 +1,296 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url('https://s3-alpha-sig.figma.com/img/4dbc/0e4f/b70dfa36a6908da5e0e993d046ad4ac3?Expires=1701043200&Signature=oAVN1Pf~eOCuzzKhY03JJRkRK~oK07dfQ3SM8ebejChQUuxqG9Mr4ir~dR8JiE8aX2ZnABZOis04YHYkV6DNJK866C3VUGCc82I381xA42BlyMWPI5wDtFmScp3Ctpz-euHOSVqOguHYqNN90lzKEyq4eUYZe5p8Iz7IVYStDvyhdiP-uru5csC1Td8LKzhydCz9kbKR5br8zH5cgEYKI2krx3j~R1VVw-KXzjNtOoxxfBdcGp8lBdc8xXzZtdZLPz-8YynsCG-j2tqatJYqNiDZbkJv97hA5QNIhNdmxsXP5pnlM1Al0VzUsFJg6SRKGB8sorRTpVSw98jAuB5Q~Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-color: #58ABAE;
+}
+
+.navbg {
+    width: 100%;
+    height: 100px;
+    flex-shrink: 0;
+    background-color: #FAF4F0;
+}
+
+.navlogo {
+    width: 218px;
+    margin-right: 3rem;
+    margin-left: 1rem;
+}
+
+.navline {
+    width: 0px;
+    height: 56px;
+    flex-shrink: 0;
+}
+
+.navheader {
+    color: #038196;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 3rem;
+}
+
+.homebtn {
+    color: #FE97A6;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 25rem;
+}
+
+.submitadoptionbtn {
+    color: #FE97A6;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left:5rem;
+}
+
+.viewstatusbtn {
+    color: #FE97A6;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left:5rem;
+}
+
+.homebtn:hover, .submitadoptionbtn:hover, .viewstatusbtn:hover {
+    color: #038196;
+}
+
+.usercard {
+    width: 50.9375rem;
+    height: 10.5625rem;
+    flex-shrink: 0;
+    border-radius: 1.875rem;
+    background: #FFD6D4;
+    margin-top:11.7rem;
+}
+
+.userimg {
+    width: 7rem;
+    height: 7rem;
+    flex-shrink: 0;
+    margin-top:1.75rem;
+    margin-left:2rem;
+}
+
+.username {
+    color: #032539;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top:.5rem;
+}
+
+.useremail {
+    color: #032539;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.useraddress {
+    color: #032539;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.submitborder {
+    width: 50.9375rem;
+    height: 36rem;
+    flex-shrink: 0;
+    border-radius: 1.875rem;
+    background: rgba(255, 255, 255, 0.90);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 2rem;
+}
+
+.submittitle {
+    color: #038196;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 2.25rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top:1.75rem;
+}
+
+.inputpetname {
+    width: 20.625rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.625rem;
+    background: #D9D9D9E5;
+    margin-left: 3.44rem;
+    color: rgba(0, 0, 0, 0.50);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.inputpetage {
+    width: 20.625rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.625rem;
+    background: #D9D9D9E5;
+    color: rgba(0, 0, 0, 0.50);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.inputpetgender {
+    width: 20.625rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.625rem;
+    background: #D9D9D9E5;
+    color: rgba(0, 0, 0, 0.50);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.inputpetbreed {
+    width: 42.69rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.625rem;
+    background: #D9D9D9E5;
+    margin-left: 3.44rem;
+    color: rgba(0, 0, 0, 0.50);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.inputcontact {
+    width: 20.625rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.625rem;
+    background: #D9D9D9E5;
+    margin-top: 2rem;
+    color: rgba(0, 0, 0, 0.50);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.inputaddress {
+    width: 42.625rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.625rem;
+    background: #D9D9D9E5;
+    margin-left: 3.44rem;
+    margin-top: 2rem;
+    color: rgba(0, 0, 0, 0.50);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.imgborder {
+    width: 15.5625rem;
+    height: 3.4375rem;
+    border-radius: 10px;
+    border: 1px #038196 solid;
+    margin-left: 16rem;
+    margin-top:1rem;
+}
+
+.uploadimage {
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.submitadoption {
+    width: 16.25rem;
+    height: 3.1875rem;
+    flex-shrink: 0;
+    border-radius: 2.5rem;
+    background: #FE97A6;
+    margin-left: 16rem;
+    color: rgba(250, 244, 240, 0.90);
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top:1.75rem;
+}

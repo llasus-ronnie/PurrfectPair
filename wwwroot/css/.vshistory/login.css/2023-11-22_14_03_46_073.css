@@ -1,0 +1,59 @@
+﻿body {
+    background: #FFD6D4;
+    overflow-x: hidden;
+}
+
+.left-side {
+    background: #FAF4F0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.right-side {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    z-index: -1;
+    background-image: url('https://s3-alpha-sig.figma.com/img/4dbc/0e4f/b70dfa36a6908da5e0e993d046ad4ac3?Expires=1701043200&Signature=oAVN1Pf~eOCuzzKhY03JJRkRK~oK07dfQ3SM8ebejChQUuxqG9Mr4ir~dR8JiE8aX2ZnABZOis04YHYkV6DNJK866C3VUGCc82I381xA42BlyMWPI5wDtFmScp3Ctpz-euHOSVqOguHYqNN90lzKEyq4eUYZe5p8Iz7IVYStDvyhdiP-uru5csC1Td8LKzhydCz9kbKR5br8zH5cgEYKI2krx3j~R1VVw-KXzjNtOoxxfBdcGp8lBdc8xXzZtdZLPz-8YynsCG-j2tqatJYqNiDZbkJv97hA5QNIhNdmxsXP5pnlM1Al0VzUsFJg6SRKGB8sorRTpVSw98jAuB5Q~Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.left-logo {
+    width: 90%;
+    height: auto;
+    margin-top: 3rem;
+    flex-shrink: 0;
+}
+
+.left-dog {
+    width: 90%;
+    height: auto;
+    flex-shrink: 0;
+}
+
+
+.right-wrapper {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.login-card {
+    width: 70%;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.90);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}

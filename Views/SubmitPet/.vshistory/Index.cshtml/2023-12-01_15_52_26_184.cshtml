@@ -1,0 +1,106 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/submitpet.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PurrfectPair.styles.css" asp-append-version="true" />
+    <title>Submit a Pet</title>
+</head>
+<body>
+    <header>
+        <nav class="navbg navbar navbar-expand-sm fixed-top">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                <img src="https://s3-alpha-sig.figma.com/img/a968/dbd8/0b6000f37e19053ed479d8ffc02ad642?Expires=1701043200&Signature=AgXWeV4PuG1saPeH4UHYo-cFwYqRTtgzpAvxYYYkr3TTDD9uE5GRxA8OLp998dXOfURfVFro5ovq1WI3No3VC4G~vIH4~n88uN8GRQGNZobyw6~9Iq1hmoIrALZYomr2Ddaqlxtoltg4qcyiGLnpv~Q2emefva-0jDP72Wu4wBgufcnZIgcJwtRo2hGBKbGG17Sz0ufY88Olnp91Zwe7A9qjzlVys0bBrWz00h-SAc73cmuwpuQDYkb4c1v3R06IFsy127Wx0tpBETTskt3BvWO~ge~1mKtp0UoG6oqv0hxAgRbqXX0A8Ucb6TYQKJX-0fj6wzU82oPcfbJUWA27bA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                     class="navlogo" alt="Logo" />
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="6" height="62" viewBox="0 0 6 62" fill="none">
+                <path class="navline" d="M3 3V59" stroke="#038196" stroke-width="5" stroke-linecap="round" />
+            </svg>
+
+            <h1 class="navheader">User Dashboard</h1>
+            
+            <a>
+                <h4 class="homebtn">HOME</h4>
+            </a>
+
+            <a>
+                <h4 class="submitadoptionbtn">SUBMIT ADOPTION</h4>
+            </a>
+
+            <a>
+                <h4 class="viewstatusbtn">VIEW STATUS</h4>
+            </a>
+            
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="usercard container">
+            <div class="row">
+                <div class="col-3">
+                    <img class="userimg" src="https://s3-alpha-sig.figma.com/img/3bab/e121/73e56dd9f57f00d730a3c8c8d5d64c4d?Expires=1701648000&Signature=Hs419FWtFtwHHNiWftIP2EXdz46wqnoX~XJmI0pftRxw9Yc6Ltf5lTOW77QwBhGgIHdy6rLYLUQlCU2NdDBk1n8tPzav53jO2hkZoP~bD8cYNJdHaWu6dP-Lcruby-yt4D94lDvlqB-xUfeLiZUHFTnkGT8IrX5ShTFCt3F1Sg2GwZ-HHNZjrb22hMyfqxsfhuKulPKTJepH9MqYrUG7b1X1FNvEOOmTsX4fxCy9OaXYWMb3MP66iOisoffTKoyRtEAtI9Op65FoQWNnILv2-Its2YVAIO-RNK7MNtyCfJU5DSdidyZoFzBR0uw6kzMS8-BfE6Km9TjVoOntYyGlww__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                         alt="Profile Picture" />
+                </div>
+                <div class="col">
+                    <p class="username">Ronnie Llasus Jr.</p>
+                    <p class="useremail">ronnieqt123@gmail.com | 09123456790</p>
+                    <p class="useraddress">Cornelia St. Basta sa Malayo Brgy. Ckret Cavite</p>
+                </div>
+            </div>
+        </div>
+        <!--form-->
+        <div class="submitborder containerp-5">
+            <h1 class="submittitle">SUBMIT A PET FOR ADOPTION</h1>
+            <div class="row">
+                <div class="col-6 form-group">
+                    <input class="inputpetname form-control" type="text" placeholder="Pet Name" />
+                </div>
+                <div class="col-2 for-group">
+                    <input class="inputpetage form-control" type="text" placeholder="Pet Age" />
+                </div>
+                <div class="col-3 form-group">
+                    <input class="inputpetgender form-control" type="text" placeholder="Pet Gender" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-6 form-group">
+                    <input class="inputpetbreed form-control" type="text" placeholder="Pet Breed" />
+                </div>
+                <div class="col-6 form-group">
+                    <input class="inputcontact form-control" type="text" placeholder="User Account Number" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12 form-group">
+                    <input class="inputaddress form-control" type="text" placeholder="User Address" />
+                </div>
+            </div>
+
+            <div class="imgborder justify-content-center">
+                <button type="button" class="form-control uploadimage btn">Upload Pet Photo</button> <!--di siya slay kaso may something pag ginagamit ko input type="image",, imean di talaga to gagana pero dapat ganto mukha niya-->
+            </div>
+
+            <button type="submit" class="btn submitadoption">SUBMIT ADOPTION</button>
+
+        </div>
+    </div>
+
+    
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>

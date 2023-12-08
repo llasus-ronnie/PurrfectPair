@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/signup.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PurrfectPair.styles.css" asp-append-version="true" />
+    <title>Sign Up</title>
+</head>
+<body>
+    <div class="row">
+        <div class="left col-lg-4 col-md-12">
+            <img src="~/images/logo-dark.png" class="left-logo" />
+            <img src="~/images/signup-cat.png" class="left-frame" />
+        </div>
+        <div class="right col-lg-8 col-md-12">
+            <div class="right-wrapper">
+                <div class="signup-card">
+                    <h3 class="signup-title">Can’t wait to be a Pawrent?</h3>
+                    <form action="/SignUp/Index" method="post">
+                        <input type="text" class="signup-field" name="FirstName" placeholder="First Name" required>
+                        <input type="text" class="signup-field" name="LastName" placeholder="Last Name" required><br />
+                        <input type="text" class="signup-field" name="Username" placeholder="Username" required>
+                        <input type="text" class="signup-field" name="ContactNumber" placeholder="Contact Number" required><br />
+                        <input type="email" class="signup-field-long" name="Email" placeholder="Email" required><br />
+                        <input type="text" class="signup-field-long" name="Address" placeholder="Address" required><br />
+                        <input type="password" class="signup-field" name="Password" placeholder="Password" required>
+                        <input type="password" class="signup-field" name="ConfirmPassword" placeholder="Re-enter Password" required><br />
+                        <button type="submit" class="signup-btn">SIGN UP</button>
+                    </form>
+                    <p class="signup-text">
+                        Already have an account?
+                        <a class="text-link" asp-area="Login" asp-controller="Login" asp-action="">Login Here.</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
