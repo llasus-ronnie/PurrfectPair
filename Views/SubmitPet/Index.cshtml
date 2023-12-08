@@ -33,15 +33,27 @@
             <h1 class="navheader">User Dashboard</h1>
             
             <a>
-                <h4 class="homebtn">HOME</h4>
+                <h4 class="homebtn">
+                    <a asp-area="Home" asp-controller="Home" asp-action="Index" style="text-decoration: none; color: inherit;">
+                        HOME
+                    </a>
+                </h4>
             </a>
 
             <a>
-                <h4 class="submitadoptionbtn">SUBMIT ADOPTION</h4>
+                <h4 class="submitadoptionbtn">
+                    <a asp-area="SubmitPet" asp-controller="SubmitPet" asp-action="Index" style="text-decoration: none; color: inherit;">
+                        SUBMIT ADOPTION
+                    </a>
+                </h4>
             </a>
 
             <a>
-                <h4 class="viewstatusbtn">VIEW STATUS</h4>
+                <h4 class="viewstatusbtn">
+                    <a asp-area="ViewStatus" asp-controller="ViewStatus" asp-action="Index" style="text-decoration: none; color: inherit;">
+                        VIEW STATUS
+                    </a>
+                </h4>
             </a>
             
         </nav>
@@ -55,6 +67,7 @@
                 <div class="col">
                     <p class="username">@ViewBag.User.FirstName @ViewBag.User.LastName</p>
                     <p class="useremail">@ViewBag.User.Email | @ViewBag.User.ContactNumber</p>
+                    <p class="useremail">@ViewBag.User.Address</p>
                 </div>
             </div>
         </div>
@@ -102,9 +115,13 @@
                 </div>
             </div>
 
-            <div class="imgborder justify-content-center">
+           
+            <div class="container-fluid justify-content-center">
+                <h2 class="h2upload">Upload Pet Photo</h2>
+            <div class="imgborder container justify-content-center">
                 <!--upload Pet Photo-->
-                <input id="petPhoto" name="petPhoto" type="file" class="form-control uploadimage btn">&nbsp;Upload Pet Photo</input>
+                <input id="petPhoto" name="petPhoto" type="file" class="form-control uploadimage btn align-content-center"></input>
+            </div>
             </div>
             <!--submit a pet button-->
             <button id="submitAPetBtn" type="submit" class="btn submitadoption">SUBMIT ADOPTION</button>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V04dGTfR8G0IkFfalyfzU0aiMLGdcGo/ZXpK+lQmp5w=",
+  "Hash": "qRRtbSG8Qm95BfWGAua5u+9C2/i3MtOHrJ8/y4tP9A8=",
   "Source": "PurrfectPair",
   "BasePath": "_content/PurrfectPair",
   "Mode": "Default",
@@ -1256,6 +1256,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\20231208030358_CatTest.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\uploads\\20231208223327_Mobile Prog (3).png",
+      "SourceId": "PurrfectPair",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\llasu\\OneDrive\\Desktop\\PurrfectPair\\PurrfectPair-domz\\wwwroot\\",
+      "BasePath": "_content/PurrfectPair",
+      "RelativePath": "uploads/20231208223327_Mobile Prog (3).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\20231208223327_Mobile Prog (3).png"
     }
   ]
 }
